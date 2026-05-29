@@ -1161,6 +1161,15 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
 
+.bar-count {
+    font-size: 0.65rem;
+    color: var(--color-text-muted);
+    width: 24px;
+    text-align: left;
+    font-weight: 300;
+    opacity: 0.7;
+}
+
 .bar-track {
     flex: 1;
     height: 6px;
